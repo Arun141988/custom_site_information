@@ -1,0 +1,9 @@
+<?php
+
+/*
+ * @file
+ * Code for unset variable.
+*/
+function custom_site_information_uninstall(){	    
+  \Drupal::state()->delete('siteapikey');
+}

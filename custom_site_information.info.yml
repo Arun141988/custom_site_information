@@ -1,0 +1,5 @@
+name: Custom Site Information
+description: Need to add Site API Key in Site Information form using form alter.
+core: 8.x
+package: Custom
+type: module
